@@ -1,0 +1,60 @@
+{
+  "defaults": {
+    "format": "webp",
+    "longEdge": 1600,
+    "thumbWidth": 480,
+    "quality": 82,
+    "thumbQuality": 72
+  },
+  "items": [
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.24.jpeg",
+      "role": "document",
+      "id": "radisson-blu",
+      "rotate": 90,
+      "deskew": true
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.24 (1).jpeg",
+      "role": "document",
+      "id": "forte-grand",
+      "rotate": 90,
+      "deskew": true
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.24 (2).jpeg",
+      "role": "document",
+      "id": "gourmet-gallery",
+      "rotate": 90,
+      "deskew": true
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.23 (2).jpeg",
+      "role": "document",
+      "id": "cv-page-1",
+      "rotate": 0,
+      "deskew": false
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.25.jpeg",
+      "role": "document",
+      "id": "cv-page-2",
+      "rotate": 90,
+      "deskew": true
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.23.jpeg",
+      "role": "document",
+      "id": "form-b1",
+      "rotate": 0,
+      "deskew": false
+    },
+    {
+      "source": "WhatsApp Image 2026-11-01 at 22.29.24 (3).jpeg",
+      "role": "portrait",
+      "id": "portrait",
+      "rotate": 0,
+      "deskew": false
+    }
+  ]
+}
